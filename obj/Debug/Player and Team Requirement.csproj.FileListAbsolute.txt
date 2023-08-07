@@ -1,0 +1,8 @@
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\COURSE END PROJECT - 1\Player and Team Requirement\Player and Team Requirement\bin\Debug\Player and Team Requirement.exe.config
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\COURSE END PROJECT - 1\Player and Team Requirement\Player and Team Requirement\bin\Debug\Player and Team Requirement.exe
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\COURSE END PROJECT - 1\Player and Team Requirement\Player and Team Requirement\bin\Debug\Player and Team Requirement.pdb
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\COURSE END PROJECT - 1\Player and Team Requirement\Player and Team Requirement\obj\Debug\Player and Team Requirement.csproj.AssemblyReference.cache
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\COURSE END PROJECT - 1\Player and Team Requirement\Player and Team Requirement\obj\Debug\Player and Team Requirement.csproj.SuggestedBindingRedirects.cache
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\COURSE END PROJECT - 1\Player and Team Requirement\Player and Team Requirement\obj\Debug\Player and Team Requirement.csproj.CoreCompileInputs.cache
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\COURSE END PROJECT - 1\Player and Team Requirement\Player and Team Requirement\obj\Debug\Player and Team Requirement.exe
+C:\Users\kalpa\OneDrive\Desktop\Practise Exercises\C#\COURSE END PROJECT - 1\Player and Team Requirement\Player and Team Requirement\obj\Debug\Player and Team Requirement.pdb
